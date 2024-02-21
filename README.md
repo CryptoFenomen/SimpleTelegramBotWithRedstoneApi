@@ -1,4 +1,4 @@
-![image](https://github.com/CryptoFenomen/SimpleTelegramBotWithRedstoneApi/assets/156483400/8726d6c9-5979-480b-ac04-717c8e426ece)## Simple Python Telegram Bot With Redstone API
+## Simple Python Telegram Bot With Redstone API
 
 A step-by-step guide on how to use RedStone API for your Telegram BOT:
 
