@@ -17,16 +17,18 @@ Step 2: Bot settings.
 2. At the BotFather, enter the /newbot command, and type name for your bot
    ![image](https://github.com/CryptoFenomen/SimpleTelegramBotWithRedstoneApi/assets/156483400/f6132ddc-9942-4591-84e3-78a4ba9e0c13)
    
-4. Next step, choose username for your bot. And add prefix bot to the end
+3. Next step, choose username for your bot. And add prefix bot to the end
    ![image](https://github.com/CryptoFenomen/SimpleTelegramBotWithRedstoneApi/assets/156483400/a53647b0-9b4e-42c5-af20-51e0a1b1101c)
-     
-5. Congratulations! You have created your own bot! BotFather now provides your own bot token. Do not share it, keep this token in a safe place.
-   ![image](https://github.com/CryptoFenomen/SimpleTelegramBotWithRedstoneApi/assets/156483400/cc6e5dcc-4ade-46ac-9f36-61bf34b98338)
+   
+4. Congratulations! You have created your own bot! BotFather now provides your own bot token. Do not share it, keep this token in a safe place.
+   
+![image](https://github.com/CryptoFenomen/SimpleTelegramBotWithRedstoneApi/assets/156483400/cc6e5dcc-4ade-46ac-9f36-61bf34b98338)
 
-7. Create your own command using **/setcommand**
-   ![image](https://github.com/CryptoFenomen/SimpleTelegramBotWithRedstoneApi/assets/156483400/18c6ed18-2f93-486b-8c16-e64841f681e2)
+5. Create your own command using **/setcommand**
+  
+![image](https://github.com/CryptoFenomen/SimpleTelegramBotWithRedstoneApi/assets/156483400/18c6ed18-2f93-486b-8c16-e64841f681e2)
 
-9. For this example, you'll need to create a few commands, which I've noted here:
+6. For this tutorial, you'll need to create a few commands, which I've noted here:
   ```
      help  - Provides help for RedStone bot
      price - Send actual price of choosen token
@@ -148,16 +150,19 @@ if __name__ == '__main__':
 
 Step 4: Testing.
 1. When you have finished setting up find your bot on telegram search bar and enter bot username what you used when create bot.
+   
    ![image](https://github.com/CryptoFenomen/SimpleTelegramBotWithRedstoneApi/assets/156483400/147bddeb-53bd-4989-95cd-6ffc48686abd)
 
-3. Type **/start** command
+2. Type **/start** command
+   
    ![image](https://github.com/CryptoFenomen/SimpleTelegramBotWithRedstoneApi/assets/156483400/d97cc06b-c88e-44a3-a765-a46d6d7d690c)
 
-4. Enjoy!
+3. Enjoy!
+   
   ![image](https://github.com/CryptoFenomen/SimpleTelegramBotWithRedstoneApi/assets/156483400/e70d0674-78c2-4226-8fd0-48028eeb2063)
 
 >[!Warning]
->When you try create your own command, after coding don't forget create this command, in @BotFather.
+>When you try create your own command, after coding don't forget create this command in @BotFather.
 
 
 
