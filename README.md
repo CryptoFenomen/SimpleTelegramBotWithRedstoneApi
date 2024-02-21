@@ -23,10 +23,10 @@ Step 2: Bot settings.
 5. Congratulations! You have created your own bot! BotFather now provides your own bot token. Do not share it, keep this token in a safe place.
    ![image](https://github.com/CryptoFenomen/SimpleTelegramBotWithRedstoneApi/assets/156483400/cc6e5dcc-4ade-46ac-9f36-61bf34b98338)
 
-6. Create your own command using **/setcommand**
+7. Create your own command using **/setcommand**
    ![image](https://github.com/CryptoFenomen/SimpleTelegramBotWithRedstoneApi/assets/156483400/18c6ed18-2f93-486b-8c16-e64841f681e2)
 
-7. For this example, you'll need to create a few commands, which I've noted here:
+9. For this example, you'll need to create a few commands, which I've noted here:
   ```
      help  - Provides help for RedStone bot
      price - Send actual price of choosen token
